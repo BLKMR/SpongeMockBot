@@ -3,7 +3,7 @@
 
 import discord
 
-TOKEN = 'NzA1OTQyNjI2NDU2NTY3ODI5.XqzCTQ.yetPaP2VBHW6cnkPx6Sl1oshgIU'
+TOKEN = '{BOT TOKEN HERE}'
 
 client = discord.Client()
 
